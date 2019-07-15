@@ -1,10 +1,13 @@
 _repo: Adrienne-Lecouvreur_59886
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   contributor:
     agent_name: Hamilton, Theodore Ely
     gutenberg_agent_id: '50677'
     url: http://www.gutenberg.org/2009/agents/50677
+covers:
+- cover_type: archival
+  image_path: 59886-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Legouvé, Ernest
@@ -29,6 +32,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4444
     wikipedia: http://en.wikipedia.org/wiki/Eugène_Scribe
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59886#Adrienne-Lecouvreur
 gutenberg_issued: '2019-07-10'
 gutenberg_type: Text
 identifiers:
